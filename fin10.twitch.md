@@ -1,8 +1,3 @@
----
-layout: post
-title: "Game TV Capsule Privacy Policy"
----
-
 # Game TV 캡슐 개인정보 처리방침
 
 ## 개인정보의 처리 목적
