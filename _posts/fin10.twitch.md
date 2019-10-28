@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Game TV Capsule Privacy Policy"
+permalink: /fin10.twitch
+---
+
 # Game TV 캡슐 개인정보 처리방침
 
 ## 개인정보의 처리 목적
